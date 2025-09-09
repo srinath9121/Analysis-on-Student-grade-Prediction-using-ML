@@ -7,7 +7,7 @@ The repository is structured for clarity, reproducibility, and professional pres
 
 2. Dataset
 
-Source: UCI Machine Learning Repository – Student Performance
+Source: UCI Machine Learning Repository – Student Performance https://archive.ics.uci.edu/dataset/320/student+performance
 
 student-por.csv – Portuguese course performance
 
