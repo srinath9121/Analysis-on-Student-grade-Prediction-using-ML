@@ -2,7 +2,7 @@ Student Performance Prediction
 1. Overview
 
 This project predicts student final grades based on demographic, academic, and social factors.
-It demonstrates an end-to-end ML workflow: from EDA → preprocessing → model training → hyperparameter tuning → evaluation.
+It demonstrates an end-to-end ML workflow: from preprocessing → EDA → → model training → evaluation.
 The repository is structured for clarity, reproducibility, and professional presentation.
 
 2. Dataset
